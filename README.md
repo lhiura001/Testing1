@@ -28,5 +28,4 @@ Welcome to the Weather Blog App! This is a web application that allows users to 
 
 2. Blogging Functionality: Users can create, read, update, and delete blog posts in the app's UI. Blog posts, along with their associated data, such as author, date, and image URL, which are stored in a MongoDB database.
 
-
-3. New changes
+3. Service uses Jenkins to perform CI from the Test Modules
